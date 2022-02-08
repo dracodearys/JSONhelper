@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../src/json.h
+iosfwd
+-
+memory
+-
+string
+-
+unordered_map
+-
+vector
+-
+
+/home/joe2/workspace1/jsonhelper/test/jsonchecker.cpp
+json.h
+/home/joe2/workspace1/jsonhelper/test/json.h
+dirent.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+unistd.h
+-
+cstring
+-
+fstream
+-
+iostream
+-
+string
+-
+unordered_map
+-
+

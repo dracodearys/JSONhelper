@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall  -O0 -Wall -g2 -ggdb  -rdynamic CMakeFiles/Test.dir/test.cpp.o  -o Test  libjson.a libparse.a -lgtest -lgtest_main -pthread 

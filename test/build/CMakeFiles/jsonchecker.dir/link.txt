@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall  -O0 -Wall -g2 -ggdb  -rdynamic CMakeFiles/jsonchecker.dir/jsonchecker.cpp.o  -o jsonchecker  libjson.a libparse.a 

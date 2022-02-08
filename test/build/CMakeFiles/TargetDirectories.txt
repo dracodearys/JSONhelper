@@ -1,0 +1,7 @@
+/home/joe2/workspace1/jsonhelper/test/build/CMakeFiles/rebuild_cache.dir
+/home/joe2/workspace1/jsonhelper/test/build/CMakeFiles/jsonchecker.dir
+/home/joe2/workspace1/jsonhelper/test/build/CMakeFiles/edit_cache.dir
+/home/joe2/workspace1/jsonhelper/test/build/CMakeFiles/test.dir
+/home/joe2/workspace1/jsonhelper/test/build/CMakeFiles/Test.dir
+/home/joe2/workspace1/jsonhelper/test/build/CMakeFiles/parse.dir
+/home/joe2/workspace1/jsonhelper/test/build/CMakeFiles/json.dir
